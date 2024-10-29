@@ -1,6 +1,11 @@
+**###Heter Henrik!**
+
+Missvisende stats ligger her:
 ![Henriks GitHub stats](https://github-readme-stats.vercel.app/api?username=henrinha&show_icons=true&theme=radical)
 ![Mest brukte språk](https://github-readme-stats.vercel.app/api/top-langs/?username=henrinha&layout=compact&theme=radical)
 
+Missvisende fordi jeg har et par store prosjekter i private repositories bygget i java og python. (private fordi de er bygget til / for jobb).
+Offentlige repositories holder nettsider av typen kødd (nyeste hobbien)
 
 <!--
 **henrinha/henrinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
