@@ -1,5 +1,5 @@
 ### Heter IKKE runar
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrinha)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **henrinha/henrinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
